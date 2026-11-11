@@ -5,7 +5,7 @@ permalink: /terms
 
 # Terms of Use — Grammo
 
-**Last updated: November 7, 2026**
+**Last updated: November 11, 2026**
 
 These Terms of Use ("Terms") are an agreement between you and the developer of Grammo ("the App", "we"). By
 installing or using the App you agree to these Terms. If you do not agree, do not use the App.
@@ -34,17 +34,24 @@ the App or its content except where the law expressly allows it.
 
 ## 4. Ads
 
-The free version of the App shows a small banner ad provided by Google AdMob. Ads are provided by third parties; we
-do not control their content and are not responsible for products or services they advertise.
+The free version of the App shows a small banner ad and, from time to time (by default at most once every 10
+minutes of use, at a natural break), a full-screen ad, provided by Google AdMob. Ads are provided by third parties;
+we do not control their content and are not responsible for products or services they advertise.
 
-## 5. "Grammo without ads" purchase
+## 5. Grammo Premium subscription and mascots
 
-- "Grammo without ads" is an optional **one-time purchase** that removes ads from the App. It is not a
-  subscription and is not charged again.
-- Price: the local price shown in Google Play before purchase, including applicable taxes.
-- The purchase is linked to your Google account. Use **Restore purchases** in Settings to get it back after
+- **Grammo Premium** is an optional **auto-renewing yearly subscription** that removes all ads. All learning
+  features are free for everyone.
+- **Free trial:** new subscribers may get a free trial (currently 14 days). If you do not cancel at least 24 hours
+  before the trial ends, the subscription starts and the yearly price is charged. Each Google account can use the
+  trial once.
+- **Renewal and cancellation:** the subscription renews every year at the then-current price unless cancelled in
+  Google Play → Payments & subscriptions → Subscriptions. Cancelling stops future renewals; Premium stays active
+  until the end of the paid period.
+- **Mascots** are optional **one-time purchases** that unlock a mascot character. They are not charged again.
+- Prices are the local prices shown in Google Play before purchase, including applicable taxes.
+- Purchases are linked to your Google account. Use **Restore purchases** in Settings to get them back after
   reinstalling the App or on a new device signed in to the same account.
-- The purchase removes ads only; all learning features are free for everyone.
 - Payments, refunds and billing are handled by Google Play under the Google Play Terms of Service and refund
   policies.
 
